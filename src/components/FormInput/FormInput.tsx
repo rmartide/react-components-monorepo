@@ -1,7 +1,7 @@
 import React from 'react';
 import './FormInput.scss';
 
-export type Props = {
+type Props = {
     label: string
 };
 
